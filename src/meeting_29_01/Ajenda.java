@@ -1,4 +1,4 @@
-package meet_29_01;
+package meeting_29_01;
 
 public class Ajenda {
 }
